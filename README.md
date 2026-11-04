@@ -1,6 +1,6 @@
 <h1 align="center">Fabrício Furlan</h1>
 <p align="center"><b>Social media · Criação de conteúdo · Desenvolvimento web</b></p>
-<p align="center">Crio perfis, sites e ferramentas do zero, e acompanho o resultado. Técnico em Administração, inglês avançado, aberto a vagas remotas no Brasil e no exterior.</p>
+<p align="center">Crio perfis, sites e ferramentas do zero, e acompanho o resultado. Técnico em Administração, inglês B2 (certificado EF SET), aberto a vagas remotas no Brasil e no exterior.</p>
 
 <p align="center">
   <a href="https://fabricio-furlan.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-fabricio--furlan.vercel.app-0d1530?style=for-the-badge" alt="Portfólio"></a>
