@@ -18,7 +18,7 @@
 | 📚 | **Papiro por Princípios** | **628 questões comentadas** de 12 provas da PM de SP e de Guardas Civis, com revisão espaçada e simulados cronometrados. | [Site](https://papiroporprincipios.netlify.app/) · [Código](https://github.com/fafafurlan/papiroporprincipios) |
 | 📅 | **Site de agendamento de serviços estéticos** | Agenda online com confirmação pelo WhatsApp, remarcação e painel administrativo. Em uso por um estúdio real. | [Site](https://studio-andressa-fabricio.vercel.app/) |
 | 📱 | **@daprapassar_** | **27,2 mil visualizações** e **7,2 mil contas alcançadas** em 30 dias, com Reels produzidos num fluxo próprio (animação em código + narração com IA). | [Instagram](https://www.instagram.com/daprapassar_/) |
-| 🎮 | **Ano a Ano** | Simulador de vida em português: escola, vestibular, carreira, família e legado, com situações do dia a dia brasileiro. | [Código](https://github.com/fafafurlan/lifegame) |
+| 🎮 | **Ano a Ano** | Simulador de vida em português: escola, vestibular, carreira, família e legado, com situações do dia a dia brasileiro. | [Jogar](https://fafafurlan.github.io/lifegame/) · [Código](https://github.com/fafafurlan/lifegame) |
 | 💼 | **Proposta de social media** | Diagnóstico de perfil, simulação de feed, carrosséis e Reels prontos para um estúdio de sobrancelhas. | [Código](https://github.com/fafafurlan/proposta-andressa) |
 
 ### Ferramentas
